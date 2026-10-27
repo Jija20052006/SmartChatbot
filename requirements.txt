@@ -1,0 +1,11 @@
+SpeechRecognition==3.16.1
+pyttsx3==2.99
+typing_extensions==4.15.0
+customtkinter
+python-dotenv==1.1.1
+
+# Windows-only (required by pyttsx3 SAPI5)
+comtypes==1.4.16
+pywin32==311
+pypiwin32==223
+

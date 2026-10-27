@@ -1,0 +1,18 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Local app data
+smartai.db
+*.db
+smartai_memory.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
